@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Tech Entrepreneur | Founder</h3>
 
 <p align="center">
-  Building high-performance backend systems with Go (Fiber, GORM) and creating cross-platform experiences with Flutter.
+  Building high-performance systems and seamless cross-platform experiences. A versatile developer passionate about leveraging the right tools—like Go and Flutter—to solve complex, real-world problems.
 </p>
 
 <p align="center">
