@@ -44,12 +44,3 @@
 *   **MK Teknik Otomasyon:** Dynamic platform for fuel & petroleum automation solutions.
 *   **ESBLUE AdBlue Solutions:** Professional app showcasing AdBlue production & distribution.
 *   **ACAR GRUP Akaryakıt:** Corporate presence site for the fuel sector.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusufmurathan&theme=radical" alt="Yusuf's Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusufmurathan&theme=radical" alt="Yusuf's Stats" />
-</p>
