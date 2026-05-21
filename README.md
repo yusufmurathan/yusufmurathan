@@ -50,6 +50,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufmurathan&show_icons=true&theme=radical&hide_border=true" alt="Yusuf's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufmurathan&layout=compact&theme=radical&hide_border=true" alt="Yusuf's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusufmurathan&theme=radical" alt="Yusuf's Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusufmurathan&theme=radical" alt="Yusuf's Stats" />
 </p>
