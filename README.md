@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yusuf Murathan Usta! 👋</h1>
+<h1 align="center">Hi, I'm Yusuf Murathan USTA! 👋</h1>
 <h3 align="center">Software Developer | Tech Entrepreneur | Founder</h3>
 
 <p align="center">
